@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pawitpr/fileshare-tcp/issues"
   },
-  "homepage": "https://github.com/pawitpr/fileshare-tcp#readme"
+  "homepage": "https://github.com/pawitpr/fileshare-tcp#readme",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
 }
