@@ -4,7 +4,7 @@ const progress = require('progress');
 const { performance } = require('perf_hooks');
 
 const PORT = 5001;
-const FILE_PATH = 'share/file.bin'; // Update with your desired file path to save
+const FILE_PATH = 'download/file.bin'; // Update with your desired file path to save
 
 const fileSize = fs.statSync(FILE_PATH).size; // Get file size
 const progressBar = new progress('Downloading [:bar] :percent :etas', {
