@@ -1,0 +1,23 @@
+{
+  "name": "fileshare-tcp",
+  "version": "1.0.1",
+  "description": "A quic fast tcp file share simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"test command not found\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawitpr/fileshare-tcp.git"
+  },
+  "keywords": [
+    "fileshare"
+  ],
+  "author": "Pawitsahare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawitpr/fileshare-tcp/issues"
+  },
+  "homepage": "https://github.com/pawitpr/fileshare-tcp#readme"
+}
